@@ -45,4 +45,4 @@ This is a comprehensive GUI application designed to manage and adjust recipe ing
 ### Sum Updates
 - Click **Update Sums** to calculate the total energy, protein, lipids, and carbohydrates for all ingredients.
 
-Thank you for using the Recipe Table Manager! We hope this tool makes your recipe management easier and more efficient.
+I hope this tool makes your recipe management easier and more efficient.
