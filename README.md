@@ -1,6 +1,6 @@
 # SMAE Nutritional Value Calculator
 
-Welcome to the Recipe Table Manager, a comprehensive GUI application designed to manage and adjust recipe ingredients effortlessly. Built with Python and Tkinter, this tool ensures you can organize, calculate, and modify recipe details with ease.
+This is a comprehensive GUI application designed to manage and adjust recipe ingredients effortlessly. Built with Python and Tkinter, this tool ensures you can organize, calculate, and modify recipe details with ease.
 
 ## Features
 
